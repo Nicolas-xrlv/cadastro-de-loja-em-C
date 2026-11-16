@@ -34,4 +34,4 @@ Execute:
 ./cadastro_loja
 ```
 
-Projeto desenvolvido para fins acadêmicos e de aprendizado da linguagem C.
+Projeto desenvolvido para fins acadêmicos e de aprendizado da linguagem C, feito em grupo pelos integrantes: Nicolas Souza Silva, Bruno Henrique Caballero Cayola, Guilherme Lucas Molina Ribeiro.
